@@ -14,4 +14,8 @@ alert("Salom dunyo");
 ```
 
 Bu skript bizga mana bunday natija olib keladi ⬇⬇⬇
+
+
+
+
 ![Natija](https://i.ibb.co/dskTZHPF/image.png)
