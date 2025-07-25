@@ -53,4 +53,5 @@ Bu kod 𝑯𝑻𝑴𝑳da
 >//--></script>
 >```
 
-Hozir tepada ko'rgan 
+>[!NOTE]
+Hozir tepada ko'rgan kodlaringizni joriy holatda muomaladan chiqqan
